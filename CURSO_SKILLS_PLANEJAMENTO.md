@@ -1494,7 +1494,7 @@ brand-identity/
    ├── skills/            # Biblioteca de skills
    ├── lib/               # Utilitarios
    ├── hooks/             # Integrações
-   └── docs/              # Documentação
+   └── docs/              # Documentaçêo
    ```
 
 4. **🧪 Skills de Testing & Debugging**
