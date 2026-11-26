@@ -1,7 +1,7 @@
 # TODO - Curso Agent Skills Mastery
 
 > **Projeto:** Curso completo sobre Agent Skills para IA
-> **Repositorio:** https://github.com/inematds/skills
+> **Repositorio:** https://github.com/linnoff88-dev/skills
 > **Inicio:** 2026-02-04
 
 ---
@@ -133,7 +133,7 @@ skills/
 - [ ] Verificar dark/light mode em todas as paginas
 - [ ] Testar responsividade mobile
 - [ ] Validar HTML
-- [ ] Checar INEMA.CLUB em todas as paginas
+- [ ] Checar ARCKHÉ AI em todas as paginas
 - [ ] Verificar botoes a esquerda
 - [ ] Confirmar numeros em circulo (nao setas)
 
